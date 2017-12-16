@@ -1,0 +1,112 @@
+<!-- Got the help from: http://www.w3schools.com/xml/xml_to_html.asp -->
+<webdesign>
+	
+	<class>
+		<title>Introduction to Digital Media</title>
+		<number>DIG 2000</number>
+		<credits>3</credits>
+	</class>
+
+	<class>
+		<title>Fundamentals of Digital Video</title>
+		<number>DIG 2030C</number>
+		<credits>3</credits>
+	</class>
+
+	<class>
+		<title>Fundamentals of Digital Imaging</title>
+		<number>DIG 2109C</number>
+		<credits>3</credits>
+	</class>
+
+	<class>
+		<title>Fundamentals of Interactive Design</title>
+		<number>DIG 2500</number>
+		<credits>3</credits>
+	</class>
+
+	<class>
+		<title>Digital Media Production</title>
+		<number>DIG 3525</number>
+		<credits>3</credits>
+	</class>
+
+	<class>
+		<title>Digital Cultures and Narrative</title>
+		<number>DIG 3024</number>
+		<credits>3</credits>
+	</class>
+
+	<class>
+		<title>Modeling for Realtime Systems</title>
+		<number>DIG 4780C</number>
+		<credits>3</credits>
+	</class>
+
+	<class>
+		<title>Computer As a Medium</title>
+		<number>DIG 3480C</number>
+		<credits>3</credits>
+	</class>
+
+	<class>
+		<title>Media Business Practices</title>
+		<number>DIG 4630C</number>
+		<credits>3</credits>
+	</class>
+
+	<class>
+		<title>Information Management and Entrepreneurship</title>
+		<number>DIG 3563</number>
+		<credits>3</credits>
+	</class>
+
+	<class>
+		<title>User-Centered Design</title>
+		<number>DIG 3811</number>
+		<credits>3</credits>
+	</class>
+
+	<class>
+		<title>Media Software Design</title>
+		<number>DIG 3563</number>
+		<credits>3</credits>
+	</class>
+
+	<class>
+		<title>Internet Interaction</title>
+		<number>DIG 3716C</number>
+		<credits>3</credits>
+	</class>
+
+	<class>
+		<title>Web Design Workshop</title>
+		<number>DIG 4104C</number>
+		<credits>3</credits>
+	</class>
+
+	<class>
+		<title>Media for E-Commerce</title>
+		<number>DIG 4530C</number>
+		<credits>3</credits>
+	</class>
+
+	<class>
+		<title>Rapid Application Web Development</title>
+		<number>DIG 4503</number>
+		<credits>3</credits>
+	</class>
+
+	<class>
+		<title>Intermediate Computer Graphic Design</title>
+		<number>GRA 3803C</number>
+		<credits>3</credits>
+	</class>
+
+	<class>
+		<title>Web Design Workshop</title>
+		<number>DIG 4104C</number>
+		<credits>3</credits>
+	</class>
+
+</webdesign>
